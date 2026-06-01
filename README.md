@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nikolai Kruchkov
 
-<!--
-**kruchkovnik15-dot/kruchkovnik15-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Detection Engineer | Threat Hunter | Blue Team
 
-Here are some ideas to get you started:
+Focused on threat detection, detection engineering and threat hunting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Areas
+
+- Detection Engineering
+- Threat Hunting
+- Security Monitoring
+- Incident Investigation
+- Detection-as-Code
+- MITRE ATT&CK Mapping
+
+### Technologies
+
+- Microsoft Sentinel
+- Splunk
+- Elastic Stack
+- Sysmon
+- Suricata
+- Sigma
+- YARA
+
+### Languages
+
+- Russian (Native)
+- Ukrainian (Native)
+- English (Working Proficiency)
+
+### Current Focus
+
+Building detection content and improving detection coverage across Windows and Linux environments.
+
+### Interests
+
+- Detection Engineering
+- Threat Research
+- Blue Team Operations
+- Security Analytics
+- Threat Detection
